@@ -1,6 +1,6 @@
 # Welcome to Karthik B J Profile! 👋
 
-Hi there! I'm an **Engineering Manager** and **Product Leader** with extensive experience in building and leading teams to develop innovative solutions. I have a wide range of expertise across cloud technologies, databases, full-stack development, data analytics, DevOps, and more. I focus on delivering high-quality, scalable products while maintaining alignment between technical and business objectives.
+Hi! I'm an **Engineering Manager** and **Product Leader** with extensive experience in building and leading teams to develop innovative solutions. I have a wide range of expertise across cloud technologies, databases, full-stack development, data analytics, DevOps, and more. I focus on delivering high-quality, scalable products while maintaining alignment between technical and business objectives.
 
 ---
 ## 🛠️ **PROGRESSIVE CAREER TIMELINE**
